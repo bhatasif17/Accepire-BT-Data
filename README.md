@@ -1,1 +1,5 @@
-We can add some description about the data here
+# We can add some description about the data here
+
+* Value is in TxnFee(usd) and TxnFee(Eth) columbs
+* Date created is ....
+* Method column is ...
