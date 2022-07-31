@@ -21,5 +21,3 @@
 7. DateTime
 *The date and time of the transaction in UTC.
 
-**Moonbeam is not included in the experiment. Since Moonbeam token DEV doesn't have any value.**
-
